@@ -1,2 +1,2 @@
-Dealing with Deelearning World
+Dealing with Deep Learning World
   
